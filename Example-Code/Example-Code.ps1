@@ -58,5 +58,5 @@ function showCoords($x, $y)
 
 #   No comma  |
 #             V
-showLatLon 123 456
+showCoords 123 456
 
