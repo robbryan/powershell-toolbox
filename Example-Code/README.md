@@ -8,3 +8,6 @@ A collection of PowerShell code snippets, doesn't really do anything, and not me
 An example of how to use Start-Transcript to automatically record a console session at a set location with a unique filename for the current user. Place the Profile.ps1 script into a known location, like:  
 C:\Users\%username%\Documents\WindowsPowerShell
 
+## Write-Examples.ps1
+Simple examples of Write-Host, Write-Output, Write-Debug, Write-Error, Write-Progress, Write-Verbose, Write-Warning, and Write-Information.
+
