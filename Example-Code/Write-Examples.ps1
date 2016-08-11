@@ -1,6 +1,16 @@
-#
-# Write-Examples.ps1 - Simple examples of the Write-* cmdlets
-#
+<#
+
+    .SYNOPSIS
+        Simple examples of the Write-* cmdlets
+
+    .PARAMETER ShowProgress
+        Display an example of a progress bar 
+
+    .EXAMPLE
+        .\Write-Examples.ps1 -ShowProgress
+        Show a progress bar
+
+#>
 
 [CmdletBinding()]
 Param([switch]$ShowProgress=$false)
