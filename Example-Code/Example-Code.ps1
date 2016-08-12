@@ -1,10 +1,9 @@
-﻿#
-# Sample-Code.ps1 - Examples of how to do standard things in PowerShell
-#
-
-
-# Examples of input parameters for a script
-#
+<#
+    .SYNOPSIS
+        Examples of how to do standard things in PowerShell
+    .DESCRIPTION
+        Examples of input parameters for a script
+#>
 Param
 (
     [Parameter(Mandatory=$true)]
