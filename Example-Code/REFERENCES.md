@@ -23,3 +23,7 @@ https://blogs.msdn.microsoft.com/powershell/2006/07/01/perserving-command-histor
 
 ### The Shell vs. The Host  
 https://powershell.org/the-shell-vs-the-host/  
+
+## Infoworld.com  
+### The power of PowerShell: Essential tips Windows admins will love  
+http://www.infoworld.com/article/3000612/windows-server/power-of-powershell-essential-tips-every-windows-admin-will-love.html  
