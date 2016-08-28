@@ -2,6 +2,12 @@
 ---
 ## Example-Code.ps1
 A collection of PowerShell code snippets, doesn't really do anything, and not meant to produce anything important.
+  
+## File-Permission.ps1  
+A simple script that demonstrates how to add a permission to a file for a given user.  
+
+## Folder-Permission.ps1  
+A simple script that demonstrates how to add a permission to a folder for a given user. Slightly trickier than a file, as the ContainerInherit and ObjectInherit [inheritance flags](https://msdn.microsoft.com/en-us/library/system.security.accesscontrol.inheritanceflags.aspx) are included.  
 
 ## Ping-Workstation.ps1  
 A completely superfluous script to 'ping' workstations. Essentially a wrapper to Test-Connection to provide an example of using calculated properties.   
