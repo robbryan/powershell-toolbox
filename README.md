@@ -8,7 +8,7 @@ It may or may not be very useful to anyone else.
 ## Useful Cmdlets  
   
 If you remember nothing else, these built-in PowerShell commands will help you out:
-- Get-Help (man)  
-- Get-Member (gm)  
-- Get-Command (gcm)  
+- [Get-Help](https://technet.microsoft.com/en-us/library/hh849696.aspx) (man)  
+- [Get-Member](https://technet.microsoft.com/en-us/library/hh849928.aspx) (gm)  
+- [Get-Command](https://technet.microsoft.com/en-us/library/hh849711.aspx) (gcm)  
   
