@@ -27,3 +27,7 @@ https://powershell.org/the-shell-vs-the-host/
 ## Infoworld.com  
 ### The power of PowerShell: Essential tips Windows admins will love  
 http://www.infoworld.com/article/3000612/windows-server/power-of-powershell-essential-tips-every-windows-admin-will-love.html  
+
+## Interface Tech Blog  
+### How should I name my PowerShell Scripts?  
+http://blogs.interfacett.com/how-should-i-name-my-powershell-scripts  

@@ -3,7 +3,7 @@
         Set the permission specified on a given folder
 
     .EXAMPLE
-        .\Folder-Permission.ps1 .\Test-Folder "Gotham\Batman" "FullControl"
+        .\Set-FolderPermission.ps1 .\Test-Folder "Gotham\Batman" "FullControl"
 #>
 
 [CmdletBinding()]

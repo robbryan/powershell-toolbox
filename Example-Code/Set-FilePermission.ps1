@@ -3,7 +3,7 @@
         Set the permission specified on a given file
 
     .EXAMPLE
-        .\File-Permission.ps1 .\Test-File.txt "Gotham\Robin" "Modify"
+        .\Set-FilePermission.ps1 .\Test-File.txt "Gotham\Robin" "Modify"
 #>
 
 [CmdletBinding()]
