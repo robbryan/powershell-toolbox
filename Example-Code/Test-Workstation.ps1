@@ -4,14 +4,14 @@
         example of adding a calculated property to a result-set.
 
     .EXAMPLE
-        .\Ping-Workstation.ps1 -Workstation jupiter2
+        .\Test-Workstation.ps1 -Workstation jupiter2
 
         Workstation IPV4Address    ReplySize ResponseTime
         ----------- -----------    --------- ------------
         JUPITER2    10.0.0.12      32        12 ms
 
     .EXAMPLE
-        Get-Content Workstations.txt | Ping-Workstation.ps1
+        Get-Content Workstations.txt | Test-Workstation.ps1
 
         Workstation IPV4Address    ReplySize ResponseTime
         ----------- -----------    --------- ------------
