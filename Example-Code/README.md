@@ -19,3 +19,5 @@ A completely superfluous script to 'ping' workstations. Essentially a wrapper to
 ## Write-Examples.ps1
 Simple examples of Write-Host, Write-Output, Write-Debug, Write-Error, Write-Progress, Write-Verbose, Write-Warning, and Write-Information.
 
+## ZIPFILES.md  
+A brief overview of the various (old and new) ways to create ZIP files in PowerShell.  
