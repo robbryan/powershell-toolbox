@@ -13,10 +13,13 @@ If you remember nothing else, these built-in PowerShell commands will help you o
 - [Get-Command](https://technet.microsoft.com/en-us/library/hh849711.aspx) (gcm)  
   
 ## [Generate-Password.ps1](docs/Generate-Password.md)  
-Some history on the changes to this simple script.  
+Generate a random password using the [Membership.GeneratePassword](https://msdn.microsoft.com/en-us/library/system.web.security.membership.generatepassword.aspx) method.  
 
 ## [Get-PDFVersion.ps1](docs/Get-PDFVersion.md)  
-More details on the Get-PDFVersion script.  
+Display the PDF version for any PDF files passed to the function.  
+
+## Get-Uptime.ps1  
+Display the elapsed time since last boot up.  
 
 ## [ZIPFILES.md](docs/ZIPFILES.md)  
 A brief overview of the various (old and new) ways to create ZIP files in PowerShell.  
