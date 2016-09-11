@@ -20,7 +20,10 @@ Display the PDF version for any PDF files passed to the function.
 
 ## Get-Uptime.ps1  
 Display the elapsed time since last boot up.  
-
+  
+## RunAs-Functions.ps1  
+Three functions to run programs with elevated permissions.  
+  
 ## [ZIPFILES.md](docs/ZIPFILES.md)  
 A brief overview of the various (old and new) ways to create ZIP files in PowerShell.  
 
