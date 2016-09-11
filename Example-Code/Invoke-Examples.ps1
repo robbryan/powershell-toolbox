@@ -64,7 +64,7 @@ showCoords 123 456
 # Handy method of opening a new PowerShell window as administrator,
 # because we prefer to type rather than right-click, right?
 #
-Start-Process -Verb RunAs -FilePath C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+Start-Process -Verb RunAs -FilePath $PSHOME\powershell.exe
 
 # ...or the even shorter...
 #
