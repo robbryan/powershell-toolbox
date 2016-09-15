@@ -23,7 +23,10 @@ Display the elapsed time since last boot up.
   
 ## RunAs-Functions.ps1  
 Three functions to run programs with elevated permissions.  
-  
+
+## Show-ActiveHostFileEntries.ps1  
+Display the active entries in the HOSTS file.  
+      
 ## [ZIPFILES.md](docs/ZIPFILES.md)  
 A brief overview of the various (old and new) ways to create ZIP files in PowerShell.  
 
