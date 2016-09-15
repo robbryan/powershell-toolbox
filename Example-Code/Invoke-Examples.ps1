@@ -68,5 +68,5 @@ Start-Process -Verb RunAs -FilePath $PSHOME\powershell.exe
 
 # ...or the even shorter...
 #
-start -v runas powershell
+start -verb runas powershell
 
