@@ -15,6 +15,6 @@ Add-Type -AssemblyName System.Web
 [System.Web.Security.Membership]::GeneratePassword($length, $numNonAlphaChars)
 ```
 
-However, *LoadWithPartialName()* has been decrecated, and so the script now uses Add-Type.
+However, *LoadWithPartialName()* has been deprecated, and so the script now uses Add-Type.
 
  
