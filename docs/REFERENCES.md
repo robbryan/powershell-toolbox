@@ -5,6 +5,9 @@
 ### Understanding the Six PowerShell Profiles  
 https://blogs.technet.microsoft.com/heyscriptingguy/2012/05/21/understanding-the-six-powershell-profiles/  
 
+### PowerShell Workflows:The Basics  
+https://blogs.technet.microsoft.com/heyscriptingguy/2012/12/26/powershell-workflows-the-basics/
+
 ## Jeffrey Snover's blog  
 ### Write-Host Considered Harmful  
 http://www.jsnover.com/blog/2013/12/07/write-host-considered-harmful/  
